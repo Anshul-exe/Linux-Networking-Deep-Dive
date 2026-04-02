@@ -1,3 +1,3 @@
 # Linux-Deep-Dive
 
-### Journal for learning Networking commands concepts and bash practice
+### Journal for learning Networking commands and Automation Bash Scripting
