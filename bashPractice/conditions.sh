@@ -3,7 +3,7 @@
 count=10
 
 if [ $count -ne 10 ]; then
-  echo "this shit be bussin"
+  echo "aha"
 else
   echo "condition is false"
 fi
@@ -27,5 +27,5 @@ read -p "Number do": age
 if [[ "$age" -gt 10 || "$age" -lt 40 ]]; then
   echo "vote krlo"
 else
-  echo "ya toh bahut chote ho ya fir marne vale ho"
+  echo "either way younger or way older "
 fi

@@ -28,4 +28,4 @@
 | pass9→10  | `FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey` |
 | pass10→11 | `dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr` |
 | pass11→12 | `7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4` |
-| pass12→13 | _(On it babyyyy)_                  |
+| pass12→13 | _(On it)_                          |

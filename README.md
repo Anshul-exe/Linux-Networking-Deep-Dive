@@ -1,4 +1,3 @@
 # Linux-Deep-Dive
 
-_Really getting this markdown file editing in the terminal down!_
-_Way to go man!!!_
+### Journal for learning Networking commands concepts and bash practice
